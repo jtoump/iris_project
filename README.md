@@ -1,7 +1,7 @@
 # iris_project
 
 
-### rs.iris_researchers(keyword)
+### rs.iris_researchers(keyword,onlyiriscodes=False)
 
 
 
