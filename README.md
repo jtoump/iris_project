@@ -30,6 +30,7 @@
 ```python
 housing_related_authors = rs.iris_researchers('housing')
 ```
+--------------------------------------------------------------------------------------------------------------
 
 ### rs.fetch_publications(listofauthors)
 
